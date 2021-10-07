@@ -10,7 +10,8 @@ Einführung in / Zusammenfassung des Projektes.
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+[Beschreibung1.pdf](https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7300230/Beschreibung1.pdf)[Uploading Beschreibung2.pdf…]()
+
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
