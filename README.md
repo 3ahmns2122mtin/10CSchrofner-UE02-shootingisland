@@ -14,6 +14,8 @@ WebGL Referenzauflösung (960x600)
 [Beschreibung2.pdf](https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7324755/Beschreibung2.pdf)
 ![image](https://user-images.githubusercontent.com/91070191/136842748-7bccf82b-89b1-4ffc-bfce-59609d3d854e.png)
 
+WebGL:  https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
+
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
@@ -63,5 +65,6 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
+Copied by Lukas Madlener
 
 Copyright by CSchrofner
