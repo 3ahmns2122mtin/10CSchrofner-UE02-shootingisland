@@ -64,6 +64,5 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
-Copied by Lukas Madlener
 
 Copyright by CSchrofner
