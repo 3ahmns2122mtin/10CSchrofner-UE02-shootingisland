@@ -1,27 +1,26 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Target : MonoBehaviour
 {
+    [SerializeField] private int secToDestroy;
+    private GameManager gameManager;
+    // Start is called before the first frame update
+    void Start()
+    {
+        gameManager = FindObjectOfType<GameManager>();
+         /*secToDestroy = 2;
+        Destroy(gameObject, secToDestroy); */
+    }
 
-    public int secToDestroy;
-    public GameManager gameManager;
-    
-    private void Start()
+    private void OnMouseDown()
     {
         gameManager.IncrementScore();
-        secToDestroy = 2;
-        Destroy(gameObject,secToDestroy);
-        
-        
-    }
-
-    private void OnMouseDown(){
-        Debug.Log("MouseDown");
         Destroy(gameObject);
-        
+
     }
 
-   
+    
+    
 }

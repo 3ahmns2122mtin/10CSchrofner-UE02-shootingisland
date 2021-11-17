@@ -1,59 +1,73 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
     public GameObject target;
-    public GameObject ParentOfTarget;
-    
+    public GameObject parentOfTargets;
+    public GameObject objCounter;
+
+    private Text textCounter;
     public bool won;
     public int score;
-    // Start is called before the first frame update
+
     void Start()
     {
-        InvokeRepeating("Spawn",1f,2f);
+        textCounter = objCounter.GetComponent<Text>();
         won = false;
-        // Ranom Range Test
-        //Debug.Log(Random.Range(4,20));
-        //Debug.Log(Random.Range(4,20));
-        //Debug.Log(Random.Range(4,20));
-        //Debug.Log(Random.Range(4,20));
+        InvokeRepeating("Spawn", 1f, 2f);
+        
 
-        //Spawn();
     }
 
-    // Spawn a target at a random Position within a specified x and y range
-    // instantiate  (make a concrete GameObjekt i.e., a clone from the given Pprefab target) the target as child
-    // target as child of the ParentOfTargets. In this case transform.localPosition instead of transform.position is important!!
+    //Spawn a target at a random position within a specified x and y range.
+    //Instantiate (make a concrete GameObject, i.e., a clone from the given prefab target) the
+    //target as child of the parentOfTargets. In this case transform.localPosition instead of
+    //transform.position is important!!
+
     private void Spawn()
     {
-        float randomX= Random.Range(-400,400);
-        float randomY= Random.Range(-250,250);
+        float randomX = Random.Range(-370, 370);
+        float randomY = Random.Range(-197, 197);
 
-        Vector2 random2DPosition = new Vector2(randomX,randomY);
+        Vector2 random2DPosition = new Vector2(randomX, randomY);
 
-        GameObject myTarget = Instantiate(target,ParentOfTarget.transform);
+        GameObject myTarget = Instantiate(target, parentOfTargets.transform);
         myTarget.transform.localPosition = random2DPosition;
-
-
-        Debug.Log(random2DPosition);
-    }
-    void Update(){
-            if(won ==true){
-                CancelInvoke("Spawn");
-            }
-
-            if(Input.GetMouseButtonDown(0)){
-                    Debug.Log("MouseDown");
-            }
     }
 
-    public void IncrementScore(){
-        score ++;
-        Debug.Log("Increment..." +score);
-        if (score>10){
+    // Update is called once per frame
+    void Update()
+    {
+       if(won == true)
+        {
+            CancelInvoke("Spawn");
+        }
+       else
+        {
+            Debug.Log(won);
+        }
+
+        if (Input.GetMouseButtonDown(0)) 
+        {
+            Debug.Log("Mouse pressed");
+
+        }
+
+        
+}
+    public void IncrementScore()
+    {
+        score++;
+        Debug.Log("increment ..." + score);
+        textCounter.text = score.ToString();
+
+        if(score == 10)
+        {
             won = true;
+            
         }
     }
 }
