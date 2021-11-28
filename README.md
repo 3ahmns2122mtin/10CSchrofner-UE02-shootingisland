@@ -13,8 +13,7 @@ WebGL Referenzauflösung (960x600)
 [Beschreibung1.pdf](https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7324754/Beschreibung1.pdf)
 [Beschreibung2.pdf](https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7324755/Beschreibung2.pdf)
 
-WebGL:   https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
-
+WebGL:    https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
