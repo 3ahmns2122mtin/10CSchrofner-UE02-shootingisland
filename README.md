@@ -19,10 +19,15 @@ https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
 
 ### Drittmaterial: 
 Font: https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
+
 Hintergrundbild (Bearbeitet): https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fstar-minimal&psig=AOvVaw2xER0RNKHDRzPrmjHkNmTJ&ust=1638473231016000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOifzMqqw_QCFQAAAAAdAAAAABAD
+
 Hintergrundmusik: https://www.youtube.com/watch?v=Tp_0oMPGBZs&t=9s
+
 Win-Musik: https://www.youtube.com/watch?v=rTl4p5FHBMI&t=205s
+
 Asteroid (Target) (Bearbeitet): https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F571746115171758720%2F&psig=AOvVaw1WZ4X64p1ALngzSJ15NglV&ust=1638473450409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDv87Krw_QCFQAAAAAdAAAAABAL
+
 Level Restart Sound: https://www.youtube.com/watch?v=jg19BE0H0ic
 
 ### Anforderungsliste:  
