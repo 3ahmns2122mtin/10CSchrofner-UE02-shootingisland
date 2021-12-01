@@ -12,7 +12,7 @@ https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
 
 ### Visuelle Einblicke in das Projekt: 
 (https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7324754/Beschreibung1.pdf)
-(https://user-images.githubusercontent.com/91070191/144302434-07f1efab-1491-4e49-80b4-12e8ea9d2ddd.jpg)
+![Projekt](https://user-images.githubusercontent.com/91070191/144303596-da2c28a1-28a0-4854-aff3-7cc214dc829e.jpg)
 
 
 
