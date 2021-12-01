@@ -11,7 +11,7 @@ WebGL Referenzauflösung (960x600)
 https://3ahmns2122mtin.github.io/10CSchrofner-UE02-shootingisland/
 
 ### Visuelle Einblicke in das Projekt: 
-[Beschreibung1.pdf](https://github.com/3ahmns2122mtin/10CSchrofner-UE02-shootingisland/files/7636754/Beschreibung1.pdf)
+![Beschreibung](https://user-images.githubusercontent.com/91070191/144303817-bc27af2f-8a5a-45bf-a846-b7ac3a859b2f.jpg)
 ![Projekt](https://user-images.githubusercontent.com/91070191/144303596-da2c28a1-28a0-4854-aff3-7cc214dc829e.jpg)
 
 
