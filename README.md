@@ -1,7 +1,7 @@
 # UE02 Shooting Island 
 
 ### Projektbeschreibung: 
-Es wurde ein 2D Game gemacht in dem es das Ziel ist 10 Targets (in meinem Falle fallende Kometen) mit einem Schusswaffe zu zerstören. Wenn der Counter 10 erreicht hat hat man gewonnen, lässt man allerdings einen Kometen aus, startet das Minispiel wieder von vorne.
+Wir haben ein 2D Game gemacht in dem es das Ziel ist 10 Targets (in meinem Falle fallende Kometen) mit einer Schusswaffe zu zerstören. Wenn der Counter 10 erreicht hat, hat man gewonnen, lässt man allerdings einen Kometen aus, startet das ganze wieder von vorne.
 
 ### Entwicklungsplattform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
